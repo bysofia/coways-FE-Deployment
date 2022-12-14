@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+.banner {
+    background-color: black;
+    margin-top: 20px;
+    height: 50vh;   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+.card {
+    margin-top: 20px;
+    background-color: black;
+}
